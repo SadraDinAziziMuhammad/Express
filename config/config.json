@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "root",
+      "password": "kuecubit",
+      "database": "todolist",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+  }
+  
